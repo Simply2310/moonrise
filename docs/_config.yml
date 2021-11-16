@@ -11,16 +11,16 @@ showinSearchEngines: true
 
 
 # Set basic server info
-serverName: Moonrise MC
-serverDescription: A Minecraft server where we have lots of fun!
-serverIP: 31.41.59.26:5358
+serverName: ChikaMC
+serverDescription: CgikaMC , A japanese themed server which has really cool things!
+serverIP: 34.131.44.55:1035
 useBedrockForOnlineStatus: false
 
 
 # Discord information
-discordInvite: https://discord.gg/minecraft
-discordServerID: 299881420891881473
-discordChannelID: 450428756855750666
+discordInvite: https://discord.gg/mvurSNMtTw
+discordServerID: 855703414289203200
+discordChannelID: 905537992955924530
 
 
 # # Navbar Links at the top of the page (uncomment "siteNav" to use)
